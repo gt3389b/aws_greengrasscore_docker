@@ -1,14 +1,14 @@
 
-Download the GGC tgz binary from Amazon.
+##Download the GGC tgz binary from Amazon.
 
-Download cert / private key from Amazon.
+##Download cert / private key from Amazon.
 
-Build docker image:
+###Build docker image:
 
-docker-compose build
+```docker-compose build```
 
-Run it:
+###Run it:
 
-docker-compose up
+```docker-compose up```
 
 
