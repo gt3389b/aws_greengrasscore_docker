@@ -1,0 +1,15 @@
+{
+    "coreThing": {
+        "caPath": "root-ca.pem",
+        "certPath": "9b99714b7b-certificate.pem.crt",
+        "keyPath": "9b99714b7b-private.pem.key",
+        "thingArn": "arn:aws:iot:us-east-1:710516728004:thing/MyTestGroup_Core",
+        "iotHost": "itvxiz1wwgml.iot.us-east-1.amazonaws.com",
+        "ggHost": "greengrass.iot.us-east-1.amazonaws.com"
+    },
+    "runtime": {
+        "cgroup": {
+            "useSystemd": "yes"
+        }
+    }
+}
